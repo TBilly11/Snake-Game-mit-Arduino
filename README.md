@@ -1,4 +1,4 @@
-# Verkehrssignalanlagen (CODESYS)
+# Snake Game mit Arduino
 <h1>1 Spielidee</h1>
  Es wird mit einem Arduino UNO den Klassiker Snake programmieren. Das Spiel soll
  aber nicht über den Computerbildschirm ausgegeben werden, sondern über zwei 8x8 LED
